@@ -10,6 +10,6 @@
 
 .app{
   min-height: 100vh;
-  display: flex;
+  display: grid;
   background-color: #e2d4ff
 }

@@ -14,9 +14,4 @@
   background-color: #e2d4ff
 }
 
-@media (width:720px){
-.app{
- width:70vh;
- height:120vh;
- }
-}
+

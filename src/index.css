@@ -9,7 +9,7 @@
 
 
 .app{
-  min-height: 150vh;
-  display: grid;
+  min-height: 100vh;
+  display: flex;
   background-color: #e2d4ff
 }

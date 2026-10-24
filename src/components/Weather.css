@@ -1,12 +1,11 @@
 .weather{
-  width: 100%;
-  max-width: 380px; /* makes it smaller */
-  padding: 30px 25px;
-  background: linear-gradient(180deg, #5a2dd0, #2f2d9a);
-  border-radius: 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    place-self: center;
+    padding: 40px;
+    border-radius: 20px;
+    background-image: linear-gradient(45deg, #2f4680, #500ae4);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .search-bar{

@@ -1,4 +1,33 @@
 .weather{
+  width: 90%;
+  max-width: 330px; /* SMALL size on mobile - your request */
+  padding: 25px;
+  background: linear-gradient(135deg, #5a2dd0, #2f2d9a);
+  border-radius: 16px;
+  text-align: center;
+  color: white;
+}
+
+
+@media (min-width: 768px) {
+  .weather{
+    max-width: 380px; 
+    padding: 30px;
+  }
+}
+
+@media (max-width: 360px) {
+  .weather{
+    max-width: 290px;
+    padding: 20px;
+  }
+}
+
+
+
+
+
+/*.weather{
     place-self: center;
     padding: 40px;
     border-radius: 20px;
@@ -6,7 +35,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-}
+}*/
 
 .search-bar{
     display: flex;

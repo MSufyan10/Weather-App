@@ -4,8 +4,6 @@ A clean and modern weather app built with React. Search any city and get live te
 
 **Live Demo:** https://weather-app-ms-ufyan10.vercel.app/
 
-**Screenshot:** Centered card design with gradient background.
-
 ![Weather App Preview](./screenshot.png)
 
 ### ✨ Features

@@ -2,7 +2,8 @@
 
 A clean and modern weather app built with React. Search any city and get live temperature, humidity, and wind speed in a beautiful UI.
 
-**Live Demo:** https://ufyan10.vercel.app
+**Live Demo:** weather-app-ms-ufyan10.vercel.app
+
 **Screenshot:** Centered card design with gradient background.
 
 ![Weather App Preview](./screenshot.png)

@@ -4,8 +4,6 @@ A clean and modern weather app built with React. Search any city and get live te
 
 **Live Demo:** https://weather-app-ms-ufyan10.vercel.app/
 
-![Weather App Preview](./screenshot.png)
-
 ### ✨ Features
 
 - 🔍 Search weather by city name

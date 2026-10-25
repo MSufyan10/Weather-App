@@ -1,16 +1,24 @@
-# React + Vite
+# Weather App - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and modern weather app built with React. Search any city and get live temperature, humidity, and wind speed in a beautiful UI.
 
-Currently, two official plugins are available:
+**Live Demo:** https://ufyan10.vercel.app
+**Screenshot:** Centered card design with gradient background.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![Weather App Preview](./screenshot.png)
 
-## React Compiler
+### ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔍 Search weather by city name
+- 🌤️ Live temperature in °C
+- 💧 Humidity & Wind Speed display
+- 🎨 Modern gradient UI (#5a2dd0 to #2f2d9a) with light background #e2d4ff
+- 📱 Fully responsive - centered small card on mobile, tablet & desktop site
+- ⚡ Fast and lightweight
 
-## Expanding the ESLint configuration
+### 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** (Vite)
+- **CSS3** - Custom styling with Flexbox & Media Queries
+- **OpenWeatherMap API** - For live weather data
+- **Vercel** - Deployment
